@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Rédaction d'article",
+        "categorie": "Écriture",
+        "text": "Rédige un article clair et structuré sur le sujet suivant : [SUJET]. Adapte le ton pour un public [CIBLE] et inclue une introduction, un développement en plusieurs parties et une conclusion."
+    },
+    {
+        "title": "Résumé de texte",
+        "categorie": "Productivité",
+        "text": "Résume le texte suivant en mettant en avant les idées principales en moins de 150 mots : [TEXTE]."
+    },
+    {
+        "title": "Générateur d'idées business",
+        "categorie": "Business",
+        "text": "Propose 5 idées de business innovantes dans le domaine de [DOMAINE], avec une brève description et le public cible."
+    },
+    {
+        "title": "Plan d'entraînement",
+        "categorie": "Sport",
+        "text": "Crée un programme d'entraînement sur 4 semaines pour atteindre l'objectif suivant : [OBJECTIF], avec 3 à 5 séances par semaine."
+    },
+    {
+        "title": "Apprentissage rapide",
+        "categorie": "Éducation",
+        "text": "Explique-moi le concept de [SUJET] comme si j'étais débutant, avec des exemples simples et une analogie."
+    },
+    {
+        "title": "Correction de texte",
+        "categorie": "Écriture",
+        "text": "Corrige les fautes d’orthographe et améliore la clarté du texte suivant : [TEXTE]."
+    },
+    {
+        "title": "Plan de voyage",
+        "categorie": "Voyage",
+        "text": "Organise un itinéraire de voyage de [DURÉE] jours à [DESTINATION], incluant les activités principales, les lieux à visiter et des restaurants pour les repas."
+    }
+]
