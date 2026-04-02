@@ -8,9 +8,23 @@
     </head>
 
     <body>
-        <!-- Un promt doit contenir le titre + la catégorie + le texte -->
         <button class="promptRequest">Générer</button>
         <div class="promptResponse"></div>
+           
+        <form id="addPromptForm">
+            <h2>Ajouter un <span>prompt</span></h2>
+
+            <label for="title">Titre <span>*</span></label>
+            <input id="title" name="title" type="text" placeholder="Ex : Rédaction d'emails pro…" required />
+
+            <label for="categorie">Catégorie <span>*</span></label>
+            <input id="categorie" name="categorie" type="text" placeholder="Ex : Écriture, Code, Analyse…" required />
+
+            <label for="text">Contenu du prompt <span>*</span></label>
+            <textarea id="text" name="text" placeholder="Écris ici ton prompt complet…" required></textarea>
+
+            <button class="addPrompt">Ajouter à la librairie</button>
+        </form>
     </body>
 
     <footer>
