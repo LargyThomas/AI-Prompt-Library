@@ -1,0 +1,6 @@
+version: '3.8'
+services:
+  ai-prompt-lib:
+    build: .
+    ports:
+      - "3000:80"
