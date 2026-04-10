@@ -31,8 +31,9 @@ body {
     width: 100%;
     max-width: 600px;
     height: 75px;
-    background-color: red;
+    background-color: purple;
     margin-top: 20px;
+    margin-bottom: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -42,7 +43,7 @@ body {
     max-width: 400px;
     height: 150px;
     margin-top: 10px;
-    background-color: orange;
+    background-color: red;
     clip-path: circle(6rem at bottom center);
 }
 
@@ -50,12 +51,12 @@ body {
     width: 75%;
     max-width: 400px;
     height: 150px;
-    background-color: yellow;
+    background-color: blue;
     clip-path: circle(6rem at top center);
 }
 
 #addPromptForm {
-    margin-top: 5%;
+    margin-top: 10px;
     width: 100%;
     max-width: 600px;
     background-color: white;
