@@ -6,6 +6,7 @@
 //.
 //.
 //.
+//.
 let button_request = document.querySelector('button.promptRequest');
 let div_response   = document.querySelector('div.promptResponse');
 
