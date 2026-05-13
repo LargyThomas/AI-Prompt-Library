@@ -1,7 +1,7 @@
 // Simulating a fix in the JS code
 //.
 //.
-// Test for oral
+// Test for oral of me, created by me
 let button_request = document.querySelector('button.promptRequest');
 let div_response   = document.querySelector('div.promptResponse');
 
